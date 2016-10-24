@@ -1,0 +1,2 @@
+class Bowtie < ApplicationRecord
+end
